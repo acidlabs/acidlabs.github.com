@@ -1,0 +1,5 @@
+name: "Acid Labs"
+description: "Acid Labs Github Page!"
+url: "acidlabs.github.com"
+permalink: pretty
+pygments: true
